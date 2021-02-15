@@ -1,9 +1,10 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Science CER
+url: https://vincenttro.github.io/
 paginate: 1
-baseurl: ""
+baseurl: "/dark-poole"
 permalink: pretty
+paginate_path: "/baseurl/page:num/"
 
 # Gems
 plugins:
@@ -41,8 +42,3 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
